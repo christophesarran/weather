@@ -2,8 +2,8 @@
 
 ## Today
 
-Cloudy with a chance of **pizza**.
+Cloudy with a chance of **sun**.
 
 ## Tomorrow
 
-Morning rainbows followed by light showers with **pancakes**.
+Morning rainbows followed by **light showers**.
